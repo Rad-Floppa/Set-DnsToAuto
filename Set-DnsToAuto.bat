@@ -1,0 +1,1 @@
+powershell -Command "Start-Process powershell -Verb RunAs -ArgumentList '-NoProfile -ExecutionPolicy Bypass -File \"C:\Set-DnsToAuto.ps1\"'"
